@@ -1,0 +1,13 @@
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.exe
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.deps.json
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.runtimeconfig.json
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.runtimeconfig.dev.json
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.dll
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\bin\Debug\netcoreapp3.1\TcpConnection.pdb
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.csprojAssemblyReference.cache
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.AssemblyInfoInputs.cache
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.AssemblyInfo.cs
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.csproj.CoreCompileInputs.cache
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.dll
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.pdb
+C:\Users\emre.simsek\Desktop\Project\TcpConnection\TcpConnection\obj\Debug\netcoreapp3.1\TcpConnection.genruntimeconfig.cache
